@@ -1,6 +1,8 @@
 # DBM-VoicePack-Yun
 
 更加符合台湾玩家的语言习惯.
+台词本由EKK大佬制作.
+https://github.com/EKE00372/WOWThings/blob/master/DBM-VPYun-SoundList.md
 
 你可自由：
 
