@@ -4,11 +4,11 @@
 ## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0小芸語音包|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
-## Author: Yun, Mini_Dragon
+## Author: Yun, EK, Mini_Dragon
 ## Version: 7.3.5
 ## Notes: https://github.com/Mini-Dragon/DBM-VoicePack-Yun
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: 小芸(國語女)
-## X-DBM-Voice-ShortName: Yike
+## X-DBM-Voice-ShortName: Yun
 ## X-DBM-Voice-Version: 7
 ## X-DBM-Voice-HasCount: 1
